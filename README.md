@@ -10,3 +10,5 @@ Durante o laboratório Benefícios da Núvem na DIO aprendi alguns pontos muito 
   - A computação em núvem possuí excelente escalabilidade, podendo ser ampliada quantas vezes for necessário na maioria dos casos.
   - A elasticidade da computação em núvem implica que ela pode variar de tamanho e recursos, de forma manual ou automática se adequando às necessidades do sistema e reduzindo os custos operacionais Opex.
     
+Na segunda etapa do Lab Dio aprendi como são definidos os modelos de computação em núvem e como escolher a correta para o projeto
+  - IaaS, PaaS, SaaS
